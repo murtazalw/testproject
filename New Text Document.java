@@ -1,1 +1,3 @@
-public class New {}
+public class New {
+    int i;
+}
