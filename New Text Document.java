@@ -1,1 +1,1 @@
-xszszxzcxz
+public class New {}
